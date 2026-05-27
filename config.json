@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productselete",
+        "uuid": 11770086,
+        "checksum": "867f9g"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
